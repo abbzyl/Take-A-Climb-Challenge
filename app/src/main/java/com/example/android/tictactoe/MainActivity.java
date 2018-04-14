@@ -254,6 +254,7 @@ public class MainActivity extends AppCompatActivity {
             end = true;
         }
 
+
         if (end) {
 
         b1.setEnabled(false);
