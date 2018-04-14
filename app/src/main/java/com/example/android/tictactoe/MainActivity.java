@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
                         b1.setText("O");
                     }
                 }
+
                 endGame();
             }
         });
